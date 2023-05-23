@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="64ea1d90-16b1-4ca9-893c-c1164e181c73" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2QBpiYACbbZO3thPhjEjaGFYW6q" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/2 DAM 22-23/PSP/3EVA/PSP/src/ej3"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\2 DAM 22-23\PSP\3EVA\PSP\src\ej3" />
+      <recent name="C:\2 DAM 22-23\PSP\3EVA\PSP\src\ej2" />
+      <recent name="C:\2 DAM 22-23\PSP\3EVA\PSP\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Servidor">
+    <configuration name="Servidor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ej3.Servidor" />
+      <module name="PSP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ej3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ej1.Cliente" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ej1.Cliente" />
+      <module name="PSP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ej1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ej1.Servidor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ej1.Servidor" />
+      <module name="PSP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ej1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ej2.Cliente" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ej2.Cliente" />
+      <module name="PSP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ej2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ej2.Servidor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ej2.Servidor" />
+      <module name="PSP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ej2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Servidor" />
+        <item itemvalue="Application.ej2.Cliente" />
+        <item itemvalue="Application.ej2.Servidor" />
+        <item itemvalue="Application.ej1.Cliente" />
+        <item itemvalue="Application.ej1.Servidor" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="64ea1d90-16b1-4ca9-893c-c1164e181c73" name="Changes" comment="" />
+      <created>1684836956253</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684836956253</updated>
+    </task>
+    <servers />
+  </component>
+</project>
